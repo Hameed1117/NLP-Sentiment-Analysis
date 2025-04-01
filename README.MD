@@ -115,10 +115,7 @@ def predict_sentiment(text):
 - Apply transfer learning with pre-trained language models
 
 ## Author
-[Your Name]
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+Khadhar Hameed Khan Pathan -  Hameed1117
 
 ## Acknowledgements
 - The IMDB dataset creators
